@@ -1,6 +1,6 @@
 # mruby sysinfo
 
-Libraries for getting host system information.
+Library for getting host system information.
 
 NOTE: Only supports linux for now.
 
