@@ -20,6 +20,8 @@ conf.gem github: 'giosakti/mruby-sysinfo'
 ...
 ```
 
+Use `Sysinfo::Factory.create` to generate Sysinfo instance. Call appropriate methods on the instance to fetch system-related information. For example: `#mem_stats`.
+
 ## Development Setup
 
 Follow getting started guide.
